@@ -6,8 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Resources/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Resources/Scenes/yuny/StageSelect.unity
+    guid: c601eeede2e67f04f9c3abef773df26c
+  - enabled: 1
+    path: Assets/Resources/Scenes/yuny/TestLevel.unity
+    guid: 3c890c112a73a2a4b8e9caed868b59bf
   m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: e9e7c3315bbc8084d8da174679990ecb, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

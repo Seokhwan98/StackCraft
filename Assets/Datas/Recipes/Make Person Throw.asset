@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d31735524893fa347abb70140f512618, type: 3}
+  m_Name: Make Person Throw
+  m_EditorClassIdentifier: 
+  recipeName: 
+  inputCards:
+  - {fileID: 11400000, guid: 9b64babf688ac614589c3768fa2db8a7, type: 2}
+  - {fileID: 11400000, guid: aedba3ca59efcf94da16102d3913995e, type: 2}
+  outputCards:
+  - {fileID: 11400000, guid: a5004d1f7c9c7e344bb262d2f86a6f95, type: 2}
+  consumeInputs: 1
+  produceTime: 0

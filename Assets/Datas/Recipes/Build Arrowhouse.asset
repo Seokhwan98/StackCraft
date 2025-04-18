@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d31735524893fa347abb70140f512618, type: 3}
+  m_Name: Build Arrowhouse
+  m_EditorClassIdentifier: 
+  recipeName: "\uAD81\uBC29 \uAC74\uCD95"
+  inputCards:
+  - {fileID: 11400000, guid: 2b5f2f44121ff5d43ba8a3def95c8d3e, type: 2}
+  - {fileID: 11400000, guid: e0ed2bd08572f4f4faa1a63c2131fb35, type: 2}
+  - {fileID: 11400000, guid: e0ed2bd08572f4f4faa1a63c2131fb35, type: 2}
+  - {fileID: 11400000, guid: e0ed2bd08572f4f4faa1a63c2131fb35, type: 2}
+  - {fileID: 11400000, guid: a8b83a26e796c7d4ea3ed9b632813f56, type: 2}
+  outputCards:
+  - {fileID: 11400000, guid: d54e91d6ca8a7184d9548f554c91286b, type: 2}
+  consumeInputs: 1
+  produceTime: 20

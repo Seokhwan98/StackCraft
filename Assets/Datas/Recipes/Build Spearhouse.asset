@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d31735524893fa347abb70140f512618, type: 3}
+  m_Name: Build Spearhouse
+  m_EditorClassIdentifier: 
+  recipeName: "\uCC3D\uD130 \uAC74\uCD95"
+  inputCards:
+  - {fileID: 11400000, guid: 872f9a50e64bccd4486903c1c7f8a178, type: 2}
+  - {fileID: 11400000, guid: e0ed2bd08572f4f4faa1a63c2131fb35, type: 2}
+  - {fileID: 11400000, guid: e0ed2bd08572f4f4faa1a63c2131fb35, type: 2}
+  - {fileID: 11400000, guid: e0ed2bd08572f4f4faa1a63c2131fb35, type: 2}
+  outputCards:
+  - {fileID: 11400000, guid: 2a55a7a691fde6e469df4c5dd9ed1ae7, type: 2}
+  consumeInputs: 1
+  produceTime: 30

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8f8a2badb2439f4488891cc7743ddfa, type: 3}
+  m_Name: Person_Spear
+  m_EditorClassIdentifier: 
+  cardName: "\uCC3D\uBCD1"
+  description: "\uCC3D\uBCD1"
+  sprite: {fileID: 21300000, guid: fd88eb23dc0ea5141ad0afe29dc7575f, type: 3}
+  cardType: 1
+  isConsumable: 0

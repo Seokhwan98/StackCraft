@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 898d86f94e71dec479b7876ff7e44a7a, type: 3}
+  m_Name: QuestData 4
+  m_EditorClassIdentifier: 
+  questID: Quest_4
+  description: "\uC5F0\uBB34\uAD00\uC5D0\uC11C \uD22C\uC11D\uAE30 \uB9CC\uB4E4\uAE30"
+  questRecipe: {fileID: 11400000, guid: 83a9f1421b8027e438f6a02cdbeaf1e0, type: 2}
+  idxInQuestList: 0

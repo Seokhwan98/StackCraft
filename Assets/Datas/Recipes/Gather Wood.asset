@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d31735524893fa347abb70140f512618, type: 3}
+  m_Name: Gather Wood
+  m_EditorClassIdentifier: 
+  recipeName: "\uBAA9\uC7AC \uC0DD\uC131"
+  inputCards:
+  - {fileID: 11400000, guid: 794af32de4c41364e94e792b8353e07b, type: 2}
+  - {fileID: 11400000, guid: 9b64babf688ac614589c3768fa2db8a7, type: 2}
+  outputCards:
+  - {fileID: 11400000, guid: e0ed2bd08572f4f4faa1a63c2131fb35, type: 2}
+  consumeInputs: 0
+  produceTime: 10

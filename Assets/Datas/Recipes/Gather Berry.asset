@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d31735524893fa347abb70140f512618, type: 3}
+  m_Name: Gather Berry
+  m_EditorClassIdentifier: 
+  recipeName: "\uC5F4\uB9E4 \uC0DD\uC131"
+  inputCards: []
+  outputCards:
+  - {fileID: 11400000, guid: a37d463c341e1a24c9c33ef1465a86ff, type: 2}
+  consumeInputs: 0
+  produceTime: 0
